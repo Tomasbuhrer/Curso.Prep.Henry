@@ -1,0 +1,43 @@
+h1{
+    color: black;
+    margin-top: -50px;
+}
+
+img{
+    height: 140px;
+    position:static;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: rgb(214, 230, 76);
+    padding: 50px;
+    border:10px;
+    border-style: solid;
+    border-color:rgb(223, 226, 35);
+}
+
+div{
+    text-align: center;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+html{
+    height: 1100px;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    
+    background-image: url("https://d2r9epyceweg5n.cloudfront.net/stores/409/486/products/90035-728443aa95a8f9f2ee15131177085805-1024-1024.jpg")
+}
+body{
+    margin-bottom: 120px;
+    margin-left: -50px;
+    margin-top: 50px;
+    
+}
